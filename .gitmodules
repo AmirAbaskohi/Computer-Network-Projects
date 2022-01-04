@@ -1,0 +1,12 @@
+[submodule "Congestion-Control"]
+	path = Congestion-Control
+	url = https://github.com/AmirAbaskohi/Congestion-Control
+[submodule "Multicast"]
+	path = Multicast
+	url = https://github.com/AmirAbaskohi/Multicast
+[submodule "FTP-Server"]
+	path = FTP-Server
+	url = https://github.com/AmirAbaskohi/FTP-Server
+[submodule "Network-Lab"]
+	path = Network-Lab
+	url = https://github.com/AmirAbaskohi/Network-Lab
